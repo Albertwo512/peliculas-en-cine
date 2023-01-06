@@ -1,5 +1,4 @@
 
-// Memo estuvo aqui
 var allMovies
 
 function searchMovies() {
